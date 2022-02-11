@@ -15,7 +15,7 @@
     "fs-extra": "^9.0.0",
     "highlight.js": "^9.18.1",
     "marked": "^0.8.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^7.0.0",
     "onchange": "^6.1.0",
     "protobufjs": "^6.9.0",
     "yargs": "^15.1.0"
